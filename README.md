@@ -33,7 +33,7 @@ As cores utilizadas nesse projeto são:
 |------|------|------|------|------|
 | AZUL1 |AZUL2 |AZUL3 |AZUL4 |AZUL5 |
 |#03045e | #0077b6 | #00b4d8| #90e0ef | #CDDBF3 |
-|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AZUL1.png?raw=true)|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AZUL2.png?raw=true)|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AZUL3.png?raw=true)|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AZUL4.png?raw=true)|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AZUL5.png?raw=true)|
+|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AZUL1.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AZUL2.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AZUL3.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AZUL4.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AZUL5.png?raw=true)|
 
 &nbsp;
 
@@ -41,7 +41,7 @@ As cores utilizadas nesse projeto são:
 |------|------|------|------|------|
 | CINZA1 |CINZA2 |CINZA3 |CINZA4 |CINZA5|
 |#212529 | #495057| #adb5bd | #dee2e6| #f8f9fa |
-| ![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/CINZA1.png?raw=true)  |![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/CINZA2.png?raw=true) |![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/CINZA3.png?raw=true) |![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/CINZA4.png?raw=true) |![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/CINZA5.png?raw=true)|
+| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/CINZA1.png?raw=true)  |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/CINZA2.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/CINZA3.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/CINZA4.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/CINZA5.png?raw=true)|
 
 &nbsp;
 
@@ -49,7 +49,7 @@ As cores utilizadas nesse projeto são:
 |------|------|------|------|------|
 | VERMELHO1 |LARANJA1 |AMARELO1 | VERDE1 |VERDE2 |
 |#e76f51 | #f4a261 | #e9c46a |#0C8040 | #4c956c |#2a9d8f|
-| ![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/VERMELHO1.png?raw=true) |![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/LARANJA1.png?raw=true)|![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/AMARELO1.png?raw=true)| ![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/VERDE1.png?raw=true) | ![adicionar desc](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/VERDE2.png?raw=true) |
+| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/VERMELHO1.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/LARANJA1.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/AMARELO1.png?raw=true)| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/VERDE1.png?raw=true) | ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/VERDE2.png?raw=true) |
 
 ## Visualizações que exploraremos
 
@@ -60,7 +60,7 @@ Na imagem abaixo, apresentamos um diagrama com diversos tipos de **visualizaçã
 - Relacionamento
 - Composição
 
-![Diagrama de Visualização de Dados (Andrew Abela - Traduzido por Afonso Rios)](https://github.com/afonsosr2/dataviz-graficos/blob/master/imagens/Tipos_Graficos/Diagrama%20de%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20(Andrew%20Abela%20-%20Traduzido%20por%20Afonso%20Rios).png?raw=true)
+![Diagrama de Visualização de Dados (Andrew Abela - Traduzido por Afonso Rios)](https://github.com/alura-cursos/dataviz-graficos/blob/master/imagens/Tipos_Graficos/Diagrama%20de%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20(Andrew%20Abela%20-%20Traduzido%20por%20Afonso%20Rios).png?raw=true)
 
 Para este curso focamos nos subgrupos da Comparação e Distribuição, levando em conta as observações que gostaríamos de apresentar em nosso portfólio.
 
@@ -86,7 +86,7 @@ Neste projeto, vamos explorar diversos gráficos de distrbuição dentre eles:
 
 ## Gráficos Produzidos
 
-Para verificar um resumo com os principais gráficos gerados ao longo curso clique nesse [link](https://github.com/afonsosr2/dataviz-graficos/blob/b962a59fd26aa9e0feb8eb964d08cda99d7d5780/Dataviz_Gr%C3%A1ficos_(gr%C3%A1ficos_produzidos).ipynb)
+Para verificar um resumo com os principais gráficos gerados ao longo curso clique nesse [link](https://github.com/alura-cursos/dataviz-graficos/blob/b962a59fd26aa9e0feb8eb964d08cda99d7d5780/Dataviz_Gr%C3%A1ficos_(gr%C3%A1ficos_produzidos).ipynb)
 
 ## Conclusões
 
